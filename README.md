@@ -10,7 +10,7 @@
 
 <section>
   <p> 
-   Innovating AI |  Backend, Frontend, Deep Learning, Machine Learning | Ask me anything about tech! | Reach me at kavindabandara94@gmail.com | 
+   Innovating AI |  Backend, Frontend, Deep Learning, Machine Learning | Ask me anything about tech! <br> Reach me at kavindabandara94@gmail.com | 
     <p> Fun fact: I never waste time, I enjoy every moment with code! Check out my official projects on LinkedIn: https://www.linkedin.com/in/kavinda-bandara-4879a11a3/</p>
 </p>
 
