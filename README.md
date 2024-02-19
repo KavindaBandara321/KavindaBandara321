@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png">
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <h3 align="center">Empowering Innovation: Full Stack Development & AI Engineering for GitHub's Next Chapter</h3>
 
@@ -35,11 +36,13 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=778569&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=778569&theme=dark&hide_border=false" /> 
+  
 </td>
 
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=778569&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
   
   </td>
 </tr>
