@@ -7,7 +7,7 @@
 
 <section>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=778569&label=Profile%20views&color=0e75b6&style=flat" alt="778569" /> </p>
-<img  align="right" alt="GIF" height="200px" src="https://github.com/778569/778569/assets/52319671/296f1444-65f4-48dd-a480-5e17eb395687"/>
+<img  align="right" margin=2px alt="GIF" height="150px" src="https://github.com/778569/778569/assets/52319671/296f1444-65f4-48dd-a480-5e17eb395687"/>
 
 </section>
 
