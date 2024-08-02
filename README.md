@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">Empowering Innovation: Full Stack Development & AI Engineering for GitHub's Next Chapter</h3>
+<h3 align="center">Empowering Innovation:  AI Engineering & Full Stack Development for GitHub's Next Chapter</h3>
 
 <section>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=778569&label=Profile%20views&color=0e75b6&style=flat" alt="778569" /> </p>
