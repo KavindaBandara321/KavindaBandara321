@@ -6,8 +6,8 @@
 <h3 align="center">Empowering Innovation:  AI Engineering & Full Stack Development for GitHub's Next Chapter</h3>
 
 <section>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=778569&label=Profile%20views&color=0e75b6&style=flat" alt="778569" /> </p>
-<img  align="right" margin=2px alt="GIF" height="150px" src="https://github.com/778569/778569/assets/52319671/296f1444-65f4-48dd-a480-5e17eb395687"/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KavindaBandara321&label=Profile%20views&color=0e75b6&style=flat" alt="KavindaBandara321" /> </p>
+<img  align="right" margin=2px alt="GIF" height="150px" src="https://github.com/KavindaBandara321/KavindaBandara321/assets/52319671/296f1444-65f4-48dd-a480-5e17eb395687"/>
 
 </section>
 
@@ -36,17 +36,17 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=778569&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KavindaBandara321&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <br></br>
   <br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=778569&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KavindaBandara321&theme=dark&hide_border=false" /> 
   
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=778569&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KavindaBandara321&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   
   </td>
